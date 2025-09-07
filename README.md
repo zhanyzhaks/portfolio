@@ -42,4 +42,4 @@ Identify voting patterns and regional support.
 **Margin:** Trump leads with 1.8% in popular vote
 
 ## 🗺️ Visualization
-<img src="[Dashboard1.png](https://github.com/zhanyzhaks/us-election-poll-2024/commit/46921d5d9fd31fa290ad29085be925d270e995c5)" width="700"/>
+<img src="https://github.com/zhanyzhaks/us-election-poll-2024/commit/46921d5d9fd31fa290ad29085be925d270e995c5" width="700"/>
