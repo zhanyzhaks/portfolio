@@ -31,12 +31,6 @@ Present results with an interactive US map visualization.
 
 Identify voting patterns and regional support.
 
-## 📌 Key Results
-| Candidate      | Electoral Votes | Popular Votes      | Percentage |
-|----------------|-----------------|--------------------|------------|
-| Donald Trump   | 312             | 76,559,805         | 50.9%      |
-| Kamala Harris  | 226             | 73,941,373         | 49.1%      |
-
 **Winner:** Donald Trump (Electoral College Majority)
 
 **Margin:** Trump leads with 1.8% in popular vote
