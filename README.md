@@ -1,4 +1,4 @@
-# portfolio
+# Some of my Projects
 # [📊 Bank Loan Analysis Project](https://github.com/zhanyzhaks/Bank-Loan-Analysis)
 ## 🧾 Executive Summary
 The bank loan analysis project explores trends in 38.6K loan applications worth over $435.8 million. It distinguishes between good and bad loans, examines repayment patterns, and identifies high-risk categories based on demographics and employment data. The findings help inform policy changes and risk mitigation strategies.
