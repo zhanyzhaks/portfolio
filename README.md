@@ -37,3 +37,15 @@ Identify voting patterns and regional support.
 
 ## 🗺️ Visualization
 <img src="Dashboard1.png" width="700"/>
+
+---
+
+# [Sales Dashboard](https://github.com/zhanyzhaks/sales_dashboard/)
+
+![Sales Dashboard](Images/Sales.png)
+
+## 📊 Project Overview  
+This project presents an interactive **Sales Dashboard** designed to visualize and analyze business sales performance data. The dashboard provides a comprehensive overview of key metrics such as **Total Sales**, **Total Profit**, **Profit Percentage**, and **Top-Performing Products**, enabling data-driven decision-making for sales and inventory management.  
+
+## 🗺️ Visualization
+<img src="Sales.png" width="700"/>
